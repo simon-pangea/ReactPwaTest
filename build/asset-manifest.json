@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactPwaTest/static/css/main.073c9b0a.css",
-    "main.js": "/ReactPwaTest/static/js/main.fb564a01.js",
-    "static/js/377.c1855308.chunk.js": "/ReactPwaTest/static/js/377.c1855308.chunk.js",
-    "service-worker.js": "/ReactPwaTest/service-worker.js",
-    "static/media/logo.svg": "/ReactPwaTest/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/ReactPwaTest/index.html",
-    "main.073c9b0a.css.map": "/ReactPwaTest/static/css/main.073c9b0a.css.map",
-    "main.fb564a01.js.map": "/ReactPwaTest/static/js/main.fb564a01.js.map",
-    "377.c1855308.chunk.js.map": "/ReactPwaTest/static/js/377.c1855308.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.5162a062.js",
+    "static/js/377.c1855308.chunk.js": "/static/js/377.c1855308.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.5162a062.js.map": "/static/js/main.5162a062.js.map",
+    "377.c1855308.chunk.js.map": "/static/js/377.c1855308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fb564a01.js"
+    "static/js/main.5162a062.js"
   ]
 }
